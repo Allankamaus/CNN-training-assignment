@@ -1,2 +1,3 @@
 prediction 1: predicted women for both images
 prediction 2: very inaccurate. Guesses are usually all men or all women regardless of which it actually is
+prediction 3: some improvement as it got 50% of men correct and 70% of women correct
