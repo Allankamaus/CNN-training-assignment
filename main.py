@@ -35,6 +35,12 @@ def train_and_validate():
     Optimizer = optim.Adam(model.parameters(), lr=0.001)
 
     # Training loop
+
+
+
+
+
+
     for epoch in range(20):
         model.train()
         for images, labels in train_loader:
